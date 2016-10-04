@@ -1,0 +1,1 @@
+source C:/Users/junhao.zhang.freddie/gitHub/Cpts451/JunhaoZhang_milestone2/Cpts_451_Project/3/ClearUnnecessaryTables/ParseYelp/yelp/CreateCategories.sql;

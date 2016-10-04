@@ -1,0 +1,9 @@
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.exe
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\bin\Release\parse_yelp.pdb
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.dll
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\bin\Release\System.Json.xml
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\ParseYelpData.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\ParseYelpData.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.exe
+C:\Users\junhao.zhang.freddie\Desktop\451\ParseYelpData-CptS451\ParseYelp\obj\x86\Release\parse_yelp.pdb

@@ -1,0 +1,98 @@
+business: 9365
+review: 572518
+user: 203005
+
+cats: 3582
+category: 36541
+ 
+Table_0 : 8582
+ 
+Table_1 : 5763
+ 
+Table_3 : 5455
+ 
+Table_5 : 7395
+ 
+nTable_31 : 5510
+ 
+nnTable_312 : 7823
+ 
+nnnTable_3123 : 5732
+ 
+nnnnTable_31234 : 5706
+ 
+nnnnnTable_312345 : 5958
+ 
+nnnnnnTable_3123456 : 5513
+ 
+nnnnnnnTable_31234567 : 5512
+ 
+Table_13 : 5396
+ 
+nnnnnnnnTable_312345678 : 5512
+ 
+nnnnnnnnnTable_3123456789 : 5436
+ 
+Table_16 : 5391
+ 
+nnnnnnnnnnTable_312345678910 : 5510
+ 
+nTable_00 : 5668
+ 
+nnTable_0012 : 5795
+ 
+nnnnnnnnnnnTable_31234567891011 : 5512
+ 
+Table_20 : 5389
+ 
+Table_21 : 4555
+ 
+nnnnnnnnnnnnTable_3123456789101113 : 5618
+ 
+nnnnnnnnnnnnnTable_312345678910111314 : 6203
+ 
+Table_23 : 5594
+ 
+Table_24 : 779
+ 
+Table_25 : 4387
+ 
+Table_26 : 667
+ 
+Table_27 : 849
+ 
+Table_28 : 868
+ 
+Table_29 : 946
+ 
+Table_30 : 961
+ 
+Table_31 : 895
+ 
+Table_32 : 308
+ 
+Table_33 : 468
+ 
+Table_34 : 312
+ 
+Table_35 : 437
+ 
+Table_36 : 498
+ 
+Table_37 : 704
+ 
+Table_38 : 18
+ 
+Table_39 : 194
+ 
+Table_40 : 258
+ 
+Table_41 : 388
+ 
+Table_42 : 109
+ 
+Table_43 : 78
+ 
+Table_44 : 6
+ 
+Table_45 : 13

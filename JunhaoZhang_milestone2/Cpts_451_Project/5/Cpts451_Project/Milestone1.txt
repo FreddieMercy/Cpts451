@@ -1,0 +1,108 @@
+            <TabItem Header="MileStone1" HorizontalAlignment="Left" Width="100">
+        
+                <Grid Background="#FFE5E5E5" Margin="10,10,10,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"></ColumnDefinition>
+                        <ColumnDefinition Width="auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <!-- 1. State -->
+                    <StackPanel Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal"> 
+                        <Label x:Name="label" Content="State" HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="49"/>
+                        <ComboBox x:Name="State_cb" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="240"/>
+                    </StackPanel>
+                    <!-- -->
+
+                    <!-- 2. City -->
+                    <StackPanel Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                        <Label x:Name="label2" Content="City" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="49"/>
+                        <ListBox x:Name="city_lb" HorizontalAlignment="Left" Height="163" VerticalAlignment="Top" Width="246" Background="White"/>
+                    </StackPanel>
+                    <!-- -->
+
+                    <!--  3. Zip -->
+                    <StackPanel Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                        <Label x:Name="label3" Content="Zip" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="49"/>
+                        <ListBox x:Name="zip_lb" HorizontalAlignment="Left" Height="152" VerticalAlignment="Top" Width="246" Background="White"/>
+                    </StackPanel>
+                    <!-- -->
+                    <Grid Grid.Column="1" Grid.Row="0" Margin="100, 50, 10, 50">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"></RowDefinition>
+                            <RowDefinition Height="auto"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        
+                    <!-- 4. Population -->
+                            <!--StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal"-->
+                                <Label Grid.Row="0" Grid.Column="0" x:Name="label4" Content="Population" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center" Width="72"/>
+                        <TextBlock Grid.Row="0" Grid.Column="1" x:Name="population_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" VerticalAlignment="Center" Width="246" Background="White"/>
+                            <!--/-->
+                    <!-- -->
+
+                    <!-- 5. Average Income -->
+                            <!--StackPanel Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal"-->
+                        <Label Grid.Row="1" Grid.Column="0" x:Name="label5" Content="Average Income" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center" Width="101"/>
+                        <TextBlock Grid.Column="1" Grid.Row="1" x:Name="aver_inc_tb" HorizontalAlignment="Right" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" VerticalAlignment="Center" Width="246" Background="White"/>
+                            <!--/-->
+                    <!-- -->
+                        
+                    </Grid>
+                    <!-- 6. Median Age -->
+                    <StackPanel Grid.Row="2" Grid.Column= "1" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Margin="130,0,0,0">
+                        <Label x:Name="label6" Content="Median Age" HorizontalAlignment="Left" Height="25" VerticalAlignment="Center" Width="74" Padding="0,0,5,0"/>
+                        <TextBlock x:Name="medi_age_tb" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="246" Background="White"/>
+                    </StackPanel>
+                    <!-- -->
+
+                    <!-- Age and Percentage -->
+                    <Grid Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="130, 50, 10, 50">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <!-- Under 18 -->
+                        <Label Grid.Column="0" Grid.Row="0" x:Name="labe7" Content="Under 18" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center"/>
+                        <TextBlock Grid.Column="1" Grid.Row="0" x:Name="age_under_18_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" VerticalAlignment="Center" Width="246" Background="White"/>
+                        <!-- -->
+
+                        <!-- 18 to 24 -->
+                        <Label Grid.Column="0" Grid.Row="1" x:Name="label8" Content="18_to_24" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center"/>
+                        <TextBlock Grid.Column="1" Grid.Row="1" x:Name="age_18_to_24_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="246" Background="White"/>
+                        <!-- -->
+
+                        <!--  25 to 44 -->
+                        <Label Grid.Column="0" Grid.Row="2" x:Name="label9" Content="25 to 44" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center" />
+                        <TextBlock Grid.Column="1" Grid.Row="2" x:Name="age_25_to_44_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="246" Background="White"/>
+                        <!-- -->
+
+                        <!-- 45 to 64 -->
+                        <Label Grid.Column="0" Grid.Row="3" x:Name="label10" Content="45 to 64" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center" />
+                        <TextBlock Grid.Column="1" Grid.Row="3" x:Name="age_45_to_64_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="246" Background="White"/>
+                        <!-- -->
+
+                        <!-- 65 and older -->
+                        <Label Grid.Column="0" Grid.Row="4" x:Name="label11" Content="65 and over" HorizontalAlignment="Right" Margin="0,2,0,2" Height="30" VerticalAlignment="Center"/>
+                        <TextBlock Grid.Column="1" Grid.Row="4" x:Name="age_65_and_older_tb" HorizontalAlignment="Left" Margin="10,2,0,2" Height="30" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="246" Background="White"/>
+                        <!-- -->
+                    </Grid>
+                    <!-- -->
+
+                </Grid>
+            </TabItem>
+            
+            

@@ -1,0 +1,23 @@
+C:\Program Files\MySQL\MySQL Server 5.7\bin
+
+
+source C:/Users/junhao.zhang.freddie/gitHub/Cpts451/JunhaoZhang_milestone2/drop.sql;
+source C:/Users/junhao.zhang.freddie/gitHub/Cpts451/JunhaoZhang_milestone2/count.sql;
+
+
+drop table cats;
+create table Cats(
+
+	Parent char(100),
+	Child Char(40),
+    primary key(Parent, Child)
+    
+);
+source C:/Users/junhao.zhang.freddie/Desktop/Milestone2/ParseYelpData-CptS451/ParseYelp/yelp/sub/Cats.sql;
+
+
+
+source C:/Users/junhao.zhang.freddie/Desktop/Milestone2/ParseYelpData-CptS451/ParseYelp/yelp/sub/req/Create_Cats.sql;
+
+source C:/Users/junhao.zhang.freddie/Desktop/Milestone2/ParseYelpData-CptS451/ParseYelp/yelp/sub/insertIntoCatTables.sql;
+

@@ -1,0 +1,2 @@
+source C:/Users/junhao.zhang.freddie/gitHub/Cpts451/JunhaoZhang_milestone2/Cpts_451_Project/1/ParseYelpData-CptS451/ParseYelp/yelp/sub/req/drop.sql;
+source C:/Users/junhao.zhang.freddie/gitHub/Cpts451/JunhaoZhang_milestone2/Cpts_451_Project/4/ParseYelpData-CptS451/ParseYelp/yelp/sub/insertIntoTables.sql;

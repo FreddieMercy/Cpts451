@@ -1,0 +1,1 @@
+update business, (select * from (select avg(stars) as a, business_id from review group by business_id) as str natural join (select count(*) as num, business_id from review group by business_id) as cnt) as alt set business.stars=alt.a, business.review_count=alt.num where business.business_id=alt.business_id;

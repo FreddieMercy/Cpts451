@@ -1,0 +1,17 @@
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\Cpts451_Project.exe.config
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\Cpts451_Project.exe
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\Cpts451_Project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project_MarkupCompile.lref
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.g.resources
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.exe
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\obj\Debug\Cpts451_Project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\Backward_logic_Engine.dll
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\MySql.Data.dll
+C:\Users\junhao.zhang.freddie\Desktop\Cpts451_Project\Cpts451_Project\bin\Debug\Backward_logic_Engine.pdb
